@@ -30,3 +30,7 @@ Search for these extensions in Visual Studio Code:
 - streetsidesoftware.code-spell-checker-portuguese-brazilian
 - naumovs.color-highlight
 - dbaeumer.vscode-eslint
+
+<h3> 🗛 Fonts</h3>
+
+To develop, I use JetBrains Mono: https://www.jetbrains.com/pt-br/lp/mono/
