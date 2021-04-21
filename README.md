@@ -27,3 +27,4 @@ Control + Shift + P
 - coenraads.bracket-pair-colorizer-2
 - streetsidesoftware.code-spell-checker
 - streetsidesoftware.code-spell-checker-portuguese-brazilian
+- naumovs.color-highlight
