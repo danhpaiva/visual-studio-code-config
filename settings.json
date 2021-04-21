@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true, // Formata o código sempre que salvamos
+    "editor.fontFamily": "JetBrains Mono", // Fonte 
+    "editor.fontSize": 13, // Tamanho da Fonte  
+    "editor.letterSpacing": 1.2, //Espaçamento das letras
+    "editor.fontLigatures": true, //
+    "workbench.colorTheme": "Dracula", //Tema  
+    "workbench.iconTheme": "material-icon-theme", // Pacote de Ícones
+    "workbench.startupEditor": "newUntitledFile", // Abre sempre um arquivo em branco  
+    "editor.minimap.enabled": false, // Desabilita o Mini Map  
+    "terminal.integrated.cursorStyle": "underline", // Deixa o cursor do terminal como underline   
+    "git.enableSmartCommit": true, // Habilita Smart Commit do GIT  
+    "git.autofetch": true // Habilita Auto Fetch do GIT  
+}
