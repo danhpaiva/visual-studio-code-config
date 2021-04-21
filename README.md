@@ -10,3 +10,13 @@ Control + Shift + P
 ~~~
 - Search for: Open Settings(JSON)
 - Copy the contents of the settings.json you downloaded and paste it into the file inside VSCode.
+
+<h3>Extensions</h3>
+
+- dracula-theme.theme-dracula
+- pkief.material-icon-theme
+- visualstudioexptteam.vscodeintellicode
+- ritwickdey.liveserver
+- ms-vsliveshare.vsliveshare
+- dbaeumer.vscode-eslint
+
