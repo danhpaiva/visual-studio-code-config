@@ -18,7 +18,6 @@ Control + Shift + P
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver
 - ms-vsliveshare.vsliveshare
-- dbaeumer.vscode-eslint
 - HookyQR.beautify
 - xabikos.JavaScriptSnippets
 - eamodio.gitlens
@@ -28,3 +27,4 @@ Control + Shift + P
 - streetsidesoftware.code-spell-checker
 - streetsidesoftware.code-spell-checker-portuguese-brazilian
 - naumovs.color-highlight
+- dbaeumer.vscode-eslint
