@@ -23,3 +23,4 @@ Control + Shift + P
 - xabikos.JavaScriptSnippets
 - eamodio.gitlens
 - yzhang.markdown-all-in-one
+- donjayamanne.githistory
