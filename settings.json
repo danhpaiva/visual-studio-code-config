@@ -10,5 +10,8 @@
     "editor.minimap.enabled": false, // Desabilita o Mini Map  
     "terminal.integrated.cursorStyle": "underline", // Deixa o cursor do terminal como underline   
     "git.enableSmartCommit": true, // Habilita Smart Commit do GIT  
-    "git.autofetch": true // Habilita Auto Fetch do GIT  
+    "git.autofetch": true, // Habilita Auto Fetch do GIT
+    //Disable Telemetry
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false
 }
