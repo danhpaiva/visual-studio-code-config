@@ -24,3 +24,7 @@ Control + Shift + P
 - eamodio.gitlens
 - yzhang.markdown-all-in-one
 - donjayamanne.githistory
+- coenraads.bracket-pair-colorizer-2
+- streetsidesoftware.code-spell-checker
+- streetsidesoftware.code-spell-checker-portuguese-brazilian
+
