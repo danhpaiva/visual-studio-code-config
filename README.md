@@ -19,4 +19,4 @@ Control + Shift + P
 - ritwickdey.liveserver
 - ms-vsliveshare.vsliveshare
 - dbaeumer.vscode-eslint
-
+- HookyQR.beautify
