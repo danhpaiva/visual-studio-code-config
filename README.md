@@ -20,3 +20,6 @@ Control + Shift + P
 - ms-vsliveshare.vsliveshare
 - dbaeumer.vscode-eslint
 - HookyQR.beautify
+- xabikos.JavaScriptSnippets
+- eamodio.gitlens
+- yzhang.markdown-all-in-one
