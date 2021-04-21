@@ -4,8 +4,9 @@
 
 - Download the repository
 - Open Visual Studio Code
-- View -> Command Pallet -> Open Settings(JSON) or press:
+- Go to: View -> Command Pallet or press:
 ~~~
 Control + Shift + P
 ~~~
+- Search for: Open Settings(JSON)
 - Copy the contents of the settings.json you downloaded and paste it into the file inside VSCode.
