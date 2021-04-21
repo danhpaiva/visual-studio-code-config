@@ -13,6 +13,8 @@ Control + Shift + P
 
 <h3> 📦 Extensions</h3>
 
+Search for these extensions in Visual Studio Code:
+
 - dracula-theme.theme-dracula
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
