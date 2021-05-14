@@ -24,7 +24,7 @@ Search for these extensions in Visual Studio Code:
 - eamodio.gitlens
 - donjayamanne.githistory
 - yzhang.markdown-all-in-one
-- coenraads.bracket-pair-colorizer-2
+- 2gua.rainbow-brackets
 - naumovs.color-highlight
 - dart-code.flutter
 - ms-dotnettools.csharp
