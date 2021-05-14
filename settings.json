@@ -7,8 +7,10 @@
     "workbench.colorTheme": "Dracula", //Tema  
     "workbench.iconTheme": "material-icon-theme", // Pacote de Ícones
     "workbench.startupEditor": "newUntitledFile", // Abre sempre um arquivo em branco  
-    "editor.minimap.enabled": false, // Desabilita o Mini Map  
-    "terminal.integrated.cursorStyle": "underline", // Deixa o cursor do terminal como underline   
+    "editor.minimap.enabled": false, // Desabilita o Mini Map
+    "workbench.panel.defaultLocation": "right", // Deixa o terminal a direita    
+    "terminal.integrated.cursorStyle": "underline", // Deixa o cursor do terminal como underline
+    "terminal.integrated.fontSize": 13, // Tamanho da fonte do terminal    
     "git.enableSmartCommit": true, // Habilita Smart Commit do GIT  
     "git.autofetch": true, // Habilita Auto Fetch do GIT
     //Disable Telemetry
