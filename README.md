@@ -21,15 +21,19 @@ Search for these extensions in Visual Studio Code:
 - ritwickdey.liveserver
 - ms-vsliveshare.vsliveshare
 - HookyQR.beautify
-- xabikos.JavaScriptSnippets
 - eamodio.gitlens
-- yzhang.markdown-all-in-one
 - donjayamanne.githistory
+- yzhang.markdown-all-in-one
 - coenraads.bracket-pair-colorizer-2
+- naumovs.color-highlight
+- dart-code.flutter
+- ms-dotnettools.csharp
+- ms-vscode.vscode-node-azure-pack
+- ms-azuretools.vscode-docker
+- dbaeumer.vscode-eslint
+- xabikos.JavaScriptSnippets
 - streetsidesoftware.code-spell-checker
 - streetsidesoftware.code-spell-checker-portuguese-brazilian
-- naumovs.color-highlight
-- dbaeumer.vscode-eslint
 
 <h3> 🗛 Fonts</h3>
 
