@@ -34,7 +34,7 @@ Search for these extensions in Visual Studio Code:
 - xabikos.JavaScriptSnippets
 - streetsidesoftware.code-spell-checker
 - streetsidesoftware.code-spell-checker-portuguese-brazilian
-- bmewburn.vscode-intelephense-client (for .php)
+- bmewburn.vscode-intelephense-client [ for .php ]
 
 <h3> 🗛 Fonts</h3>
 
