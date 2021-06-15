@@ -26,7 +26,9 @@ Search for these extensions in Visual Studio Code:
 - yzhang.markdown-all-in-one
 - 2gua.rainbow-brackets
 - naumovs.color-highlight
-  
+
+More:
+
 - dart-code.flutter
 - ms-dotnettools.csharp
 - ms-vscode.vscode-node-azure-pack
