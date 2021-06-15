@@ -41,4 +41,5 @@ More:
 
 <h3> 🗛 Fonts</h3>
 
-To develop, I use JetBrains Mono: https://www.jetbrains.com/pt-br/lp/mono/
+To develop, <br>
+I use JetBrains Mono: https://www.jetbrains.com/pt-br/lp/mono/
