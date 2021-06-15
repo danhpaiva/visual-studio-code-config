@@ -26,6 +26,7 @@ Search for these extensions in Visual Studio Code:
 - yzhang.markdown-all-in-one
 - 2gua.rainbow-brackets
 - naumovs.color-highlight
+  
 - dart-code.flutter
 - ms-dotnettools.csharp
 - ms-vscode.vscode-node-azure-pack
@@ -34,7 +35,7 @@ Search for these extensions in Visual Studio Code:
 - xabikos.JavaScriptSnippets
 - streetsidesoftware.code-spell-checker
 - streetsidesoftware.code-spell-checker-portuguese-brazilian
-- bmewburn.vscode-intelephense-client [ for .php ]
+- bmewburn.vscode-intelephense-client
 
 <h3> 🗛 Fonts</h3>
 
