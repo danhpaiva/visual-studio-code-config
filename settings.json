@@ -13,7 +13,7 @@
     "terminal.integrated.fontSize": 13, // Tamanho da fonte do terminal    
     "git.enableSmartCommit": true, // Habilita Smart Commit do GIT  
     "git.autofetch": true, // Habilita Auto Fetch do GIT
-    //Disable Telemetry
+    // Disable Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false
 }
