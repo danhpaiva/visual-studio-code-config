@@ -15,8 +15,7 @@ Control + Shift + P
 
 Search for these extensions in Visual Studio Code:
 
-- dracula-theme.theme-dracula
-- zhuangtongfa.material-theme
+- akamud.vscode-theme-onedark
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver

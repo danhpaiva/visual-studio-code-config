@@ -4,7 +4,7 @@
     "editor.fontSize": 13, // Tamanho da Fonte  
     "editor.letterSpacing": 1.2, //Espaçamento das letras
     "editor.fontLigatures": true, // Símbolos mais legíveis
-    "workbench.colorTheme": "One Dark Pro", //Tema  
+    "workbench.colorTheme": "Atom One Dark", //Tema  
     "workbench.iconTheme": "material-icon-theme", // Pacote de Ícones
     "workbench.startupEditor": "newUntitledFile", // Abre sempre um arquivo em branco  
     "editor.minimap.enabled": false, // Desabilita o Mini Map
