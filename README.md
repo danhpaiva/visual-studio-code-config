@@ -11,11 +11,11 @@ Control + Shift + P
 - Search for: Open Settings(JSON)
 - Copy the contents of the settings.json you downloaded and paste it into the file inside VSCode.
 
-<h3> 📦 Extensions</h3>
+<h3>📦 Extensions</h3>
 
 Search for these extensions in Visual Studio Code:
 
-- akamud.vscode-theme-onedark
+- dracula-theme.theme-dracula
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver
@@ -39,7 +39,7 @@ More:
 - streetsidesoftware.code-spell-checker-portuguese-brazilian
 - bmewburn.vscode-intelephense-client
 
-<h3> 🗛 Fonts</h3>
+<h3>🗛 Fonts</h3>
 
 To develop, <br>
-I use JetBrains Mono: https://www.jetbrains.com/pt-br/lp/mono/
+<a href="https://www.jetbrains.com/pt-br/lp/mono/">I use JetBrains Mono</a>
