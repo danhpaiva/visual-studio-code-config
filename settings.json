@@ -1,18 +1,21 @@
 {
-    "editor.formatOnSave": true, // Formata o código sempre que salvamos
-    "editor.fontFamily": "JetBrains Mono", // Fonte 
-    "editor.fontSize": 13, // Tamanho da Fonte  
-    "editor.letterSpacing": 1.2, //Espaçamento das letras
-    "editor.fontLigatures": true, // Símbolos mais legíveis
-    "workbench.colorTheme": "Dracula", //Tema  
-    "workbench.iconTheme": "material-icon-theme", // Pacote de Ícones
-    "workbench.startupEditor": "newUntitledFile", // Abre sempre um arquivo em branco  
-    "editor.minimap.enabled": false, // Desabilita o Mini Map
-    "workbench.panel.defaultLocation": "right", // Deixa o terminal a direita    
-    "terminal.integrated.cursorStyle": "underline", // Deixa o cursor do terminal como underline
-    "terminal.integrated.fontSize": 13, // Tamanho da fonte do terminal    
-    "git.enableSmartCommit": true, // Habilita Smart Commit do GIT  
-    "git.autofetch": true, // Habilita Auto Fetch do GIT
+    //JetBrains Font
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.letterSpacing": 1.2,
+    "editor.fontLigatures": true, //More readable symbols
+    //Themes
+    "workbench.colorTheme": "Dracula", 
+    "workbench.iconTheme": "material-icon-theme",
+    //Others
+    "editor.formatOnSave": true, //Format the code whenever we save
+    "workbench.startupEditor": "newUntitledFile", // Always open a blank file  
+    "editor.minimap.enabled": false, //Disable Mini Map
+    "workbench.panel.defaultLocation": "right", //Put the terminal on the right   
+    "terminal.integrated.cursorStyle": "underline", //Underlines the terminal cursor
+    "terminal.integrated.fontSize": 13,    
+    "git.enableSmartCommit": true, //Enable Smart Commit from GIT
+    "git.autofetch": true, //Enable GIT Auto Fetch
     // Disable Telemetry
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false

@@ -15,6 +15,8 @@ Control + Shift + P
 
 Search for these extensions in Visual Studio Code:
 
+(extremely necessary 😍)
+
 - dracula-theme.theme-dracula
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
@@ -27,7 +29,7 @@ Search for these extensions in Visual Studio Code:
 - 2gua.rainbow-brackets
 - naumovs.color-highlight
 
-More:
+(Specific to some development environment)
 
 - dart-code.flutter
 - ms-dotnettools.csharp
@@ -42,4 +44,4 @@ More:
 <h3>🗛 Fonts</h3>
 
 To develop, <br>
-<a href="https://www.jetbrains.com/pt-br/lp/mono/">I use JetBrains Mono</a>
+<a href="https://www.jetbrains.com/pt-br/lp/mono/">I use JetBrains Mono.</a>
