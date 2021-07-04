@@ -33,6 +33,7 @@ Search for these extensions in Visual Studio Code:
 
 - dart-code.flutter
 - ms-dotnettools.csharp
+- kreativ-software.csharpextensions
 - ms-vscode.vscode-node-azure-pack
 - ms-azuretools.vscode-docker
 - dbaeumer.vscode-eslint
