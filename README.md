@@ -17,7 +17,7 @@ Search for these extensions in Visual Studio Code:
 
 (extremely necessary 😍)
 
-- dracula-theme.theme-dracula
+- akamud.vscode-theme-onedark
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver
