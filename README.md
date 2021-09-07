@@ -47,3 +47,7 @@ Search for these extensions in Visual Studio Code:
 
 To develop, <br>
 <a href="https://www.jetbrains.com/pt-br/lp/mono/">I use JetBrains Mono.</a>
+
+<h3>📜 Licence</h3>
+
+<a href="https://github.com/danhpaiva/visual-studio-code-config/blob/main/LICENSE">MIT</a>
