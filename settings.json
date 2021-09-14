@@ -1,7 +1,7 @@
 {
 	"files.encoding": "utf8",
 	//JetBrains Font
-	"editor.fontFamily": "JetBrains Mono",
+	"editor.fontFamily": "JetBrains Mono, Cascadia Code",
 	"editor.fontSize": 14,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
