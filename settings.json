@@ -19,15 +19,23 @@
 	"workbench.colorTheme": "Atom One Dark",
 	"workbench.iconTheme": "material-icon-theme",
 	//Others
-	"editor.formatOnSave": true, //Format the code whenever we save
-	"workbench.startupEditor": "newUntitledFile", // Always open a blank file  
-	"editor.minimap.enabled": false, //Disable Mini Map
-	"editor.tabSize": 2, //Indentation
-	"workbench.panel.defaultLocation": "right", //Put the terminal on the right   
-	"terminal.integrated.cursorStyle": "underline", //Underlines the terminal cursor
+	//Format the code whenever we save
+	"editor.formatOnSave": true,
+	// Always open a blank file  
+	"workbench.startupEditor": "newUntitledFile",
+	//Disable Mini Map
+	"editor.minimap.enabled": false,
+	//Indentation
+	"editor.tabSize": 2,
+	//Put the terminal on the right
+	"workbench.panel.defaultLocation": "right",
+	//Underlines the terminal cursor
+	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.fontSize": 14,
-	"git.enableSmartCommit": true, //Enable Smart Commit from GIT
-	"git.autofetch": true, //Enable GIT Auto Fetch
+	//Enable Smart Commit from GIT
+	"git.enableSmartCommit": true,
+	//Enable GIT Auto Fetch
+	"git.autofetch": true,
 	// Disable Telemetry
 	"telemetry.enableCrashReporter": false,
 	"telemetry.enableTelemetry": false
