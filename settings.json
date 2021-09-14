@@ -2,7 +2,7 @@
 	"files.encoding": "utf8",
 	//JetBrains Font
 	"editor.fontFamily": "JetBrains Mono",
-	"editor.fontSize": 13,
+	"editor.fontSize": 14,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
 	"editor.fontLigatures": true,
@@ -25,7 +25,7 @@
 	"editor.tabSize": 2, //Indentation
 	"workbench.panel.defaultLocation": "right", //Put the terminal on the right   
 	"terminal.integrated.cursorStyle": "underline", //Underlines the terminal cursor
-	"terminal.integrated.fontSize": 13,
+	"terminal.integrated.fontSize": 14,
 	"git.enableSmartCommit": true, //Enable Smart Commit from GIT
 	"git.autofetch": true, //Enable GIT Auto Fetch
 	// Disable Telemetry
