@@ -38,5 +38,7 @@
 	"git.autofetch": true,
 	// Disable Telemetry
 	"telemetry.enableCrashReporter": false,
-	"telemetry.enableTelemetry": false
+	"telemetry.enableTelemetry": false,
+	//XML REDHAT
+	"redhat.telemetry.enabled": false
 }
