@@ -40,5 +40,7 @@
 	"telemetry.enableCrashReporter": false,
 	"telemetry.enableTelemetry": false,
 	//XML REDHAT
-	"redhat.telemetry.enabled": false
+	"redhat.telemetry.enabled": false,
+	//Disable Update
+	"update.enableWindowsBackgroundUpdates": false
 }
