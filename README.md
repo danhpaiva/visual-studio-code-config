@@ -25,6 +25,7 @@ Search for these extensions in Visual Studio Code:
 - ms-vsliveshare.vsliveshare
 - HookyQR.beautify
 - eamodio.gitlens
+- mhutchie.git-graph
 - donjayamanne.githistory
 - yzhang.markdown-all-in-one
 - 2gua.rainbow-brackets
