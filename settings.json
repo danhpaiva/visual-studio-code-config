@@ -36,11 +36,8 @@
 	"git.enableSmartCommit": true,
 	//Enable GIT Auto Fetch
 	"git.autofetch": true,
-	// Disable Telemetry
-	"telemetry.enableCrashReporter": false,
-	"telemetry.enableTelemetry": false,
+	//Disable Telemetry
+	"telemetry.telemetryLevel": "off",
 	//XML REDHAT
-	"redhat.telemetry.enabled": false,
-	//Disable Update
-	"update.enableWindowsBackgroundUpdates": false
+	"redhat.telemetry.enabled": false
 }
