@@ -1,7 +1,6 @@
 {
-	"files.encoding": "utf8",
 	//JetBrains Font
-	"editor.fontFamily": "JetBrains Mono, Cascadia Code",
+	"editor.fontFamily": "JetBrains Mono, Cascadia Mono",
 	"editor.fontSize": 14,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
@@ -39,5 +38,8 @@
 	//Disable Telemetry
 	"telemetry.telemetryLevel": "off",
 	//XML REDHAT
-	"redhat.telemetry.enabled": false
+	"redhat.telemetry.enabled": false,
+	//others
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
