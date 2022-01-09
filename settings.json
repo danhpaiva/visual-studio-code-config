@@ -1,7 +1,7 @@
 {
 	//JetBrains Font
-	"editor.fontFamily": "JetBrains Mono, Cascadia Code",
-	"editor.fontSize": 14,
+	"editor.fontFamily": "Cascadia Code, JetBrains Mono",
+	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
 	"editor.fontLigatures": false,
@@ -15,7 +15,7 @@
 	//Applies a visual signal to the left of the selected line
 	"editor.renderLineHighlight": "gutter",
 	//Themes
-	"workbench.colorTheme": "One Dark Pro",
+	"workbench.colorTheme": "Atom One Dark",
 	"workbench.iconTheme": "material-icon-theme",
 	//Format the code whenever we save
 	"editor.formatOnSave": true,
