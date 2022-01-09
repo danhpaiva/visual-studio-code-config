@@ -18,7 +18,7 @@ Search for these extensions in Visual Studio Code:
 
 (extremely necessary 😍)
 
-- zhuangtongfa.material-theme
+- akamud.vscode-theme-onedark
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver
