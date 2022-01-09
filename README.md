@@ -18,7 +18,7 @@ Search for these extensions in Visual Studio Code:
 
 (extremely necessary 😍)
 
-- akamud.vscode-theme-onedark
+- zhuangtongfa.material-theme
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver
@@ -31,11 +31,15 @@ Search for these extensions in Visual Studio Code:
 - 2gua.rainbow-brackets
 - naumovs.color-highlight
 
+(C# development environment)
+
+- ms-dotnettools.csharp
+- kreativ-software.csharpextensions
+- patcx.vscode-nuget-gallery
+
 (Specific to some development environment)
 
 - dart-code.flutter
-- ms-dotnettools.csharp
-- kreativ-software.csharpextensions
 - ms-vscode.vscode-node-azure-pack
 - ms-azuretools.vscode-docker
 - dbaeumer.vscode-eslint
