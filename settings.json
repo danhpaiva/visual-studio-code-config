@@ -4,7 +4,7 @@
 	"editor.fontSize": 14,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
-	"editor.fontLigatures": true,
+	"editor.fontLigatures": false,
 	//Apply vertical lines to remind you to break lines in very large codes
 	"editor.rulers": [
 		80,
@@ -15,9 +15,8 @@
 	//Applies a visual signal to the left of the selected line
 	"editor.renderLineHighlight": "gutter",
 	//Themes
-	"workbench.colorTheme": "Atom One Dark",
+	"workbench.colorTheme": "One Dark Pro",
 	"workbench.iconTheme": "material-icon-theme",
-	//Others
 	//Format the code whenever we save
 	"editor.formatOnSave": true,
 	// Always open a blank file  
@@ -37,13 +36,13 @@
 	"git.autofetch": true,
 	//Disable Telemetry
 	"telemetry.telemetryLevel": "off",
-	//XML REDHAT
-	"redhat.telemetry.enabled": false,
-	//others
+	//Others
 	"editor.suggestSelection": "first",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	//Updates Disable
 	"update.enableWindowsBackgroundUpdates": false,
 	"update.mode": "none",
-	"update.showReleaseNotes": false
+	"update.showReleaseNotes": false,
+	//XML REDHAT
+	"redhat.telemetry.enabled": false
 }
