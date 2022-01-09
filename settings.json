@@ -1,6 +1,6 @@
 {
 	//JetBrains Font
-	"editor.fontFamily": "Cascadia Code, JetBrains Mono",
+	"editor.fontFamily": "Cascadia Code, JetBrains Mono, Consolas",
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
