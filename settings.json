@@ -20,7 +20,7 @@
 	//Format the code whenever we save
 	"editor.formatOnSave": true,
 	// Always open a blank file  
-	"workbench.startupEditor": "newUntitledFile",
+	"workbench.startupEditor": "none",
 	//Disable Mini Map
 	"editor.minimap.enabled": false,
 	//Indentation
@@ -39,7 +39,6 @@
 	//Others
 	"editor.suggestSelection": "first",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-	"workbench.editor.untitled.hint": "hidden",
 	//Updates Disable
 	"update.enableWindowsBackgroundUpdates": false,
 	"update.mode": "none",
