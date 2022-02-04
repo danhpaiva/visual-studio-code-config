@@ -25,8 +25,8 @@
 	"editor.minimap.enabled": false,
 	//Indentation
 	"editor.tabSize": 2,
-	//Put the terminal on the right
-	"workbench.panel.defaultLocation": "right",
+	//Put the terminal on the editor
+	"terminal.integrated.defaultLocation": "view",
 	//Underlines the terminal cursor
 	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.fontSize": 14,
@@ -44,5 +44,5 @@
 	"update.mode": "none",
 	"update.showReleaseNotes": false,
 	//XML REDHAT
-	"redhat.telemetry.enabled": false
+	"redhat.telemetry.enabled": false,
 }
