@@ -1,48 +1,35 @@
 {
-	//Font
-	"editor.fontFamily": "Cascadia Code, JetBrains Mono, Consolas",
+	"breadcrumbs.enabled": false,
+	"editor.fontFamily": "JetBrains Mono, Cascadia Code",
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
 	"editor.fontLigatures": false,
-	//Apply vertical lines to remind you to break lines in very large codes
+	"editor.formatOnSave": true,
+	"editor.minimap.enabled": false,
+	"editor.suggestSelection": "first",
+	"editor.tabSize": 2,
 	"editor.rulers": [
 		80,
 		120
 	],
-	//Configures "empty folder" display
-	"explorer.compactFolders": false,
-	//Applies a visual signal to the left of the selected line
 	"editor.renderLineHighlight": "gutter",
-	//Themes
-	//"workbench.colorTheme": "Atom One Dark",
+	"explorer.compactFolders": false,
+	"workbench.colorTheme": "Atom One Dark",
 	"workbench.iconTheme": "material-icon-theme",
-	//Format the code whenever we save
-	"editor.formatOnSave": true,
-	// Always open a blank file  
+	"workbench.sideBar.location": "right",
+	"workbench.statusBar.visible": false,
 	"workbench.startupEditor": "none",
-	//Disable Mini Map
-	"editor.minimap.enabled": false,
-	//Indentation
-	"editor.tabSize": 2,
-	//Put the terminal on the editor
 	"terminal.integrated.defaultLocation": "view",
-	//Underlines the terminal cursor
 	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.fontSize": 14,
-	//Enable Smart Commit from GIT
 	"git.enableSmartCommit": true,
-	//Enable GIT Auto Fetch
 	"git.autofetch": true,
-	//Disable Telemetry
 	"telemetry.telemetryLevel": "off",
-	//Others
-	"editor.suggestSelection": "first",
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-	//Updates Disable
 	"update.enableWindowsBackgroundUpdates": false,
 	"update.mode": "none",
 	"update.showReleaseNotes": false,
-	//XML REDHAT
-	"redhat.telemetry.enabled": false,
+	"window.zoomLevel": 0,
+	"redhat.telemetry.enabled": false
 }
