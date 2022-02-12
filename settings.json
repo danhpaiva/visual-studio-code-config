@@ -29,7 +29,7 @@
 	"workbench.colorTheme": "Default Dark+",
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.sideBar.location": "right",
-	"workbench.statusBar.visible": false,
+	"workbench.statusBar.visible": true,
 	"workbench.startupEditor": "none",
 	"redhat.telemetry.enabled": false
 }
