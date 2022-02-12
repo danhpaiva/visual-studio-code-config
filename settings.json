@@ -15,6 +15,7 @@
 	],
 	"editor.renderLineHighlight": "gutter",
 	"explorer.compactFolders": false,
+	"explorer.confirmDelete": false,
 	"git.enableSmartCommit": true,
 	"git.autofetch": true,
 	"telemetry.telemetryLevel": "off",
@@ -26,10 +27,11 @@
 	"update.showReleaseNotes": false,
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"window.zoomLevel": 0,
+	"window.menuBarVisibility": "compact",
 	"workbench.colorTheme": "Default Dark+",
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.sideBar.location": "right",
-	"workbench.statusBar.visible": true,
+	"workbench.statusBar.visible": false,
 	"workbench.startupEditor": "none",
 	"redhat.telemetry.enabled": false
 }
