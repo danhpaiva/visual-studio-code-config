@@ -26,7 +26,7 @@
 	"update.showReleaseNotes": false,
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"window.zoomLevel": 0,
-	"workbench.colorTheme": "Atom One Dark",
+	"workbench.colorTheme": "Default Dark+",
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": false,
