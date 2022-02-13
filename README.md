@@ -1,4 +1,4 @@
-<h1>✨ My favorite Visual Studio Code settings</h1>
+<h2>✨ My favorite Visual Studio Code settings</h2>
 
 <h3>📜 How to install</h3>
 
@@ -18,7 +18,6 @@ Search for these extensions in Visual Studio Code:
 
 (extremely necessary 😍)
 
-- akamud.vscode-theme-onedark
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver
@@ -52,7 +51,7 @@ Search for these extensions in Visual Studio Code:
 <h3>🗛 Fonts</h3>
 
 To develop, <br>
-Use <a href="https://github.com/microsoft/cascadia-code">Cascadia Mono</a> or <a href="https://www.jetbrains.com/pt-br/lp/mono/">JetBrains Mono</a>.
+Use <a href="https://github.com/microsoft/cascadia-code">Cascadia Code</a> or <a href="https://www.jetbrains.com/pt-br/lp/mono/">JetBrains Mono</a>.
 
 <h3>📜 Licence</h3>
 
