@@ -24,7 +24,7 @@
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.fontSize": 14,
-	"terminal.integrated.fontFamily": "JetBrains Mono, Cascadia Code",
+	"terminal.integrated.fontFamily": "Cascadia Code",
 	"update.enableWindowsBackgroundUpdates": false,
 	"update.mode": "none",
 	"update.showReleaseNotes": false,
