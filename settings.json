@@ -1,6 +1,6 @@
 {
 	"breadcrumbs.enabled": false,
-	"editor.fontFamily": "Cascadia Code, JetBrains Mono",
+	"editor.fontFamily": "JetBrains Mono, Cascadia Code",
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
