@@ -19,10 +19,11 @@
 	"git.enableSmartCommit": true,
 	"git.autofetch": true,
 	"git.confirmSync": false,
+	"security.workspace.trust.untrustedFiles": "open",
 	"telemetry.telemetryLevel": "off",
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
-	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.fontSize": 13,
 	"update.enableWindowsBackgroundUpdates": false,
 	"update.mode": "none",
 	"update.showReleaseNotes": false,
@@ -34,6 +35,5 @@
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": false,
 	"workbench.startupEditor": "none",
-	"security.workspace.trust.untrustedFiles": "open",
 	"redhat.telemetry.enabled": false
 }
