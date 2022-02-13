@@ -18,6 +18,7 @@
 	"explorer.confirmDelete": false,
 	"git.enableSmartCommit": true,
 	"git.autofetch": true,
+	"git.confirmSync": false,
 	"telemetry.telemetryLevel": "off",
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
@@ -33,5 +34,5 @@
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": false,
 	"workbench.startupEditor": "none",
-	"redhat.telemetry.enabled": false
+	"redhat.telemetry.enabled": false,
 }
