@@ -34,5 +34,6 @@
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": false,
 	"workbench.startupEditor": "none",
-	"redhat.telemetry.enabled": false,
+	"security.workspace.trust.untrustedFiles": "open",
+	"redhat.telemetry.enabled": false
 }
