@@ -52,7 +52,7 @@ Search for these extensions in Visual Studio Code:
 <h3>🗛 Fonts</h3>
 
 To develop, <br>
-Use <a href="https://github.com/microsoft/cascadia-code">Cascadia Code</a> or <a href="https://www.jetbrains.com/pt-br/lp/mono/">JetBrains Mono</a>.
+Use <a href="https://github.com/microsoft/cascadia-code">Cascadia Mono</a> or <a href="https://www.jetbrains.com/pt-br/lp/mono/">JetBrains Mono</a>.
 
 <h3>📜 Licence</h3>
 
