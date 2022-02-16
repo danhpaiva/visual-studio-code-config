@@ -26,7 +26,6 @@ Search for these extensions in Visual Studio Code:
 - eamodio.gitlens
 - mhutchie.git-graph
 - yzhang.markdown-all-in-one
-- 2gua.rainbow-brackets
 - naumovs.color-highlight
 - humao.rest-client
 - redhat.vscode-yaml
