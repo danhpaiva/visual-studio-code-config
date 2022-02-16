@@ -1,4 +1,4 @@
-<h2>✨ My favorite Visual Studio Code settings</h2>
+<h2>✨ My Visual Studio Code settings</h2>
 
 <h3>📜 How to install</h3>
 
