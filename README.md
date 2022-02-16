@@ -29,6 +29,8 @@ Search for these extensions in Visual Studio Code:
 - 2gua.rainbow-brackets
 - naumovs.color-highlight
 - humao.rest-client
+- redhat.vscode-yaml
+- redhat.vscode-xml
 
 (C# development environment)
 
