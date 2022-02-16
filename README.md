@@ -29,6 +29,7 @@ Search for these extensions in Visual Studio Code:
 - yzhang.markdown-all-in-one
 - 2gua.rainbow-brackets
 - naumovs.color-highlight
+- humao.rest-client
 
 (C# development environment)
 
