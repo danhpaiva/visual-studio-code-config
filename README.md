@@ -16,7 +16,7 @@ paste it into the file inside VSCode.
 
 Search for these extensions in Visual Studio Code:
 
-(extremely necessary 😍)
+(Fundamentals)
 
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
@@ -25,7 +25,6 @@ Search for these extensions in Visual Studio Code:
 - HookyQR.beautify
 - eamodio.gitlens
 - mhutchie.git-graph
-- donjayamanne.githistory
 - yzhang.markdown-all-in-one
 - 2gua.rainbow-brackets
 - naumovs.color-highlight
@@ -45,8 +44,6 @@ Search for these extensions in Visual Studio Code:
 - ms-azuretools.vscode-docker
 - dbaeumer.vscode-eslint
 - xabikos.JavaScriptSnippets
-- streetsidesoftware.code-spell-checker
-- streetsidesoftware.code-spell-checker-portuguese-brazilian
 - bmewburn.vscode-intelephense-client
 
 <h3>🗛 Fonts</h3>
