@@ -36,7 +36,6 @@ Search for these extensions in Visual Studio Code:
 - ms-dotnettools.csharp
 - kreativ-software.csharpextensions
 - patcx.vscode-nuget-gallery
-- leo-labs.dotnet
 
 (Specific to some development environment)
 
