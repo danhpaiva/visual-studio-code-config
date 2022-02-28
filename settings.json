@@ -38,5 +38,8 @@
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": false,
 	"workbench.startupEditor": "none",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
 	"redhat.telemetry.enabled": false
 }
