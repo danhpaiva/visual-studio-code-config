@@ -37,12 +37,16 @@ Search for these extensions in Visual Studio Code:
 - kreativ-software.csharpextensions
 - patcx.vscode-nuget-gallery
 
+(Html/JavaScript development environment)
+
+- abusaidm.html-snippets
+- dbaeumer.vscode-eslint
+
 (Specific to some development environment)
 
 - dart-code.flutter
 - ms-vscode.vscode-node-azure-pack
 - ms-azuretools.vscode-docker
-- dbaeumer.vscode-eslint
 - xabikos.JavaScriptSnippets
 - bmewburn.vscode-intelephense-client
 
