@@ -44,6 +44,7 @@ Search for these extensions in Visual Studio Code:
 
 (Specific to some development environment)
 
+- ms-azuretools.vscode-docker
 - dart-code.flutter
 - ms-vscode.vscode-node-azure-pack
 - ms-azuretools.vscode-docker
