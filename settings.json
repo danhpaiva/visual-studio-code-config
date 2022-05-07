@@ -1,6 +1,6 @@
 {
 	"breadcrumbs.enabled": false,
-	"editor.fontFamily": "JetBrains Mono, Cascadia Code",
+	"editor.fontFamily": "JetBrains Mono NL, Cascadia Mono",
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
@@ -21,12 +21,12 @@
 	"git.enableSmartCommit": true,
 	"git.autofetch": true,
 	"git.confirmSync": false,
-	"security.workspace.trust.untrustedFiles": "open",
+	"security.workspace.trust.untrustedFiles": "newWindow",
 	"telemetry.telemetryLevel": "off",
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.fontSize": 14,
-	"terminal.integrated.fontFamily": "Cascadia Mono",
+	"terminal.integrated.fontFamily": "JetBrains Mono NL, Cascadia Mono",
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
 			"source": "PowerShell",
