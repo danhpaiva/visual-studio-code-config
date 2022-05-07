@@ -47,6 +47,7 @@
 			"source": "Git Bash"
 		},
 	},
+	"terminal.integrated.defaultProfile.windows": "PowerShell",
 	"update.enableWindowsBackgroundUpdates": false,
 	"update.mode": "none",
 	"update.showReleaseNotes": false,
