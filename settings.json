@@ -25,7 +25,7 @@
 	"telemetry.telemetryLevel": "off",
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
-	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.fontSize": 13,
 	"terminal.integrated.fontFamily": "JetBrains Mono NL, Cascadia Mono",
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
@@ -53,7 +53,6 @@
 	"update.mode": "none",
 	"update.showReleaseNotes": false,
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-	"window.zoomLevel": 0,
 	"window.menuBarVisibility": "compact",
 	"workbench.colorTheme": "Default Dark+",
 	"workbench.iconTheme": "material-icon-theme",
