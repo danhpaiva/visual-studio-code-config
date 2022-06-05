@@ -42,6 +42,10 @@ Search for these extensions in Visual Studio Code:
 - abusaidm.html-snippets
 - dbaeumer.vscode-eslint
 
+(UML)
+
+- jebbs.plantuml 
+
 (Specific to some development environment)
 
 - ms-azuretools.vscode-docker
