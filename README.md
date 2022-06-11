@@ -22,7 +22,6 @@ Search for these extensions in Visual Studio Code:
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver
 - ms-vsliveshare.vsliveshare
-- HookyQR.beautify
 - eamodio.gitlens
 - mhutchie.git-graph
 - yzhang.markdown-all-in-one
