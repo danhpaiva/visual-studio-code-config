@@ -38,7 +38,6 @@ Search for these extensions in Visual Studio Code:
 
 (Html/JavaScript development environment)
 
-- abusaidm.html-snippets
 - dbaeumer.vscode-eslint
 
 (UML)
