@@ -46,6 +46,10 @@ Search for these extensions in Visual Studio Code:
 
 - jebbs.plantuml 
 
+(c/c++)
+
+- ms-vscode.cpptools-extension-pack
+
 (Specific to some development environment)
 
 - ms-azuretools.vscode-docker
