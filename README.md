@@ -16,7 +16,7 @@ paste it into the file inside VSCode.
 
 Search for these extensions in Visual Studio Code:
 
-(Fundamentals)
+Fundamentals
 
 - pkief.material-icon-theme
 - visualstudioexptteam.vscodeintellicode
@@ -30,28 +30,31 @@ Search for these extensions in Visual Studio Code:
 - redhat.vscode-yaml
 - redhat.vscode-xml
 
-(C# development environment)
+C#
 
 - ms-dotnettools.csharp
 - kreativ-software.csharpextensions
 - patcx.vscode-nuget-gallery
 
-(Html/JavaScript development environment)
+WebDev
 
 - dbaeumer.vscode-eslint
 
-(UML)
+UML
 
 - jebbs.plantuml 
 
-(c/c++)
+C
 
 - ms-vscode.cpptools-extension-pack
+
+Flutter
+
+- dart-code.flutter
 
 (Specific to some development environment)
 
 - ms-azuretools.vscode-docker
-- dart-code.flutter
 - ms-vscode.vscode-node-azure-pack
 - ms-azuretools.vscode-docker
 - xabikos.JavaScriptSnippets
