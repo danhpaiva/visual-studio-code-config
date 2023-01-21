@@ -29,6 +29,7 @@ Fundamentals
 - humao.rest-client
 - redhat.vscode-yaml
 - redhat.vscode-xml
+- adpyke.codesnap
 
 C#
 
