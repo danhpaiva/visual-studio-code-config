@@ -55,7 +55,7 @@
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"window.menuBarVisibility": "compact",
 	"workbench.colorTheme": "Default Dark+",
-	"workbench.iconTheme": "vs-minimal",
+	"workbench.iconTheme": "vs-seti",
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": false,
 	"workbench.startupEditor": "none",
