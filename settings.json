@@ -54,7 +54,7 @@
 	"update.showReleaseNotes": false,
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"window.menuBarVisibility": "compact",
-	"workbench.colorTheme": "Default Dark+",
+	"workbench.colorTheme": "Default Dark Modern",
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": false,
@@ -62,5 +62,9 @@
 	"[html]": {
 		"editor.defaultFormatter": "vscode.html-language-features"
 	},
-	"redhat.telemetry.enabled": false
+	"redhat.telemetry.enabled": false,
+	"codesnap.transparentBackground": true,
+	"codesnap.showWindowTitle": true,
+	"codesnap.containerPadding": "0.5em",
+	"window.zoomLevel": 0
 }
