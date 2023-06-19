@@ -26,7 +26,7 @@
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.fontSize": 12,
-	"terminal.integrated.fontFamily": "Cascadia Code, JetBrains Mono",
+	"terminal.integrated.fontFamily": "MesloLGL Nerd Font, Cascadia Code, JetBrains Mono",
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
 			"source": "PowerShell",
