@@ -55,6 +55,9 @@
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"window.menuBarVisibility": "compact",
 	"workbench.colorTheme": "Default Dark Modern",
+	"workbench.colorCustomizations": {
+		"editor.background": "#191622"
+	},
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": false,
