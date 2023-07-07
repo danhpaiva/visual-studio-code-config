@@ -75,6 +75,7 @@
 	},
 	"redhat.telemetry.enabled": false,
 	"xml.symbols.maxItemsComputed": 50000,
+	"xml.server.vmargs": "-Xmx128M",
 	"codesnap.transparentBackground": true,
 	"codesnap.showWindowTitle": true,
 	"codesnap.containerPadding": "0.5em",
