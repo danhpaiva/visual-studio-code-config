@@ -9,6 +9,10 @@
 	"editor.minimap.enabled": false,
 	"editor.suggestSelection": "first",
 	"editor.tabSize": 2,
+	"editor.tokenColorCustomizations": {
+		"comments": "#5A4B81",
+		"strings": "#E89E64"
+	},
 	"editor.rulers": [
 		80,
 		120
