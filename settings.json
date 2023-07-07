@@ -11,7 +11,10 @@
 	"editor.tabSize": 2,
 	"editor.tokenColorCustomizations": {
 		"comments": "#5A4B81",
-		"strings": "#E89E64"
+		"numbers": "#67e480",
+		"strings": "#E89E64",
+		"variables": "#8be9fd",
+		"functions": "#e7de79"
 	},
 	"editor.rulers": [
 		80,
