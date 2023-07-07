@@ -10,7 +10,7 @@
 	"editor.suggestSelection": "first",
 	"editor.tabSize": 2,
 	"editor.tokenColorCustomizations": {
-		"comments": "#5A4B81",
+		"comments": "#56a64a",
 		"numbers": "#67e480",
 		"strings": "#E89E64",
 		"variables": "#8be9fd",
