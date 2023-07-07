@@ -74,6 +74,7 @@
 		"editor.defaultFormatter": "vscode.html-language-features"
 	},
 	"redhat.telemetry.enabled": false,
+	"xml.symbols.maxItemsComputed": 50000,
 	"codesnap.transparentBackground": true,
 	"codesnap.showWindowTitle": true,
 	"codesnap.containerPadding": "0.5em",
