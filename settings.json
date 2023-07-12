@@ -10,11 +10,12 @@
 	"editor.suggestSelection": "first",
 	"editor.tabSize": 2,
 	"editor.tokenColorCustomizations": {
-		"comments": "#56a64a",
+		"comments": "#6272a4",
 		"numbers": "#67e480",
 		"strings": "#E89E64",
 		"variables": "#8be9fd",
-		"functions": "#e7de79"
+		"functions": "#e7de79",
+		"types": "#4EC9B0"
 	},
 	"editor.rulers": [
 		80,
