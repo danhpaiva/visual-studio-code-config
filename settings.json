@@ -79,6 +79,6 @@
 	"xml.server.vmargs": "-Xmx128M",
 	"codesnap.transparentBackground": true,
 	"codesnap.showWindowTitle": true,
-	"codesnap.containerPadding": "0.5em",
+	"codesnap.containerPadding": "0.2em",
 	"window.zoomLevel": 0
 }
