@@ -25,7 +25,7 @@
 	"telemetry.telemetryLevel": "off",
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
-	"terminal.integrated.fontSize": 12,
+	"terminal.integrated.fontSize": 10,
 	"terminal.integrated.fontFamily": "'Cascadia Code', 'JetBrains Mono'",
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
