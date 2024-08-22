@@ -1,6 +1,6 @@
 {
 	"breadcrumbs.enabled": false,
-	"editor.fontFamily": "JetBrains Mono, Cascadia Code",
+	"editor.fontFamily": "Cascadia Code, JetBrains Mono",
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
@@ -9,14 +9,6 @@
 	"editor.minimap.enabled": false,
 	"editor.suggestSelection": "first",
 	"editor.tabSize": 2,
-	"editor.tokenColorCustomizations": {
-		"comments": "#6272a4",
-		"numbers": "#67e480",
-		"strings": "#E89E64",
-		"variables": "#8be9fd",
-		"functions": "#e7de79",
-		"types": "#4EC9B0"
-	},
 	"editor.rulers": [
 		80,
 		120
@@ -34,7 +26,7 @@
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.fontSize": 12,
-	"terminal.integrated.fontFamily": "MesloLGS NF, Cascadia Code",
+	"terminal.integrated.fontFamily": "Cascadia Code, JetBrains Mono",
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
 			"source": "PowerShell",
@@ -79,6 +71,5 @@
 	"xml.server.vmargs": "-Xmx128M",
 	"codesnap.transparentBackground": true,
 	"codesnap.showWindowTitle": true,
-	"codesnap.containerPadding": "0.1em",
-	"window.zoomLevel": 0
+	"codesnap.containerPadding": "0.1em"
 }
