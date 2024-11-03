@@ -22,7 +22,6 @@ Fundamentals
 - visualstudioexptteam.vscodeintellicode
 - ritwickdey.liveserver
 - ms-vsliveshare.vsliveshare
-- eamodio.gitlens
 - mhutchie.git-graph
 - yzhang.markdown-all-in-one
 - naumovs.color-highlight
