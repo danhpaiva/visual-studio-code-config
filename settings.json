@@ -1,6 +1,6 @@
 {
 	"breadcrumbs.enabled": false,
-	"editor.fontFamily": "'Cascadia Code', 'JetBrains Mono'",
+	"editor.fontFamily": "'Cascadia Code', 'JetBrains Mono', Consolas",
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
@@ -26,8 +26,8 @@
 	"telemetry.telemetryLevel": "off",
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
-	"terminal.integrated.fontSize": 10,
-	"terminal.integrated.fontFamily": "'Cascadia Code', 'JetBrains Mono'",
+	"terminal.integrated.fontSize": 12,
+	"terminal.integrated.fontFamily": "'Cascadia Mono', 'JetBrains Mono', Consolas",
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
 			"source": "PowerShell",
