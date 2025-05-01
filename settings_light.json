@@ -1,6 +1,6 @@
 {
 	"breadcrumbs.enabled": false,
-	"editor.fontFamily": "'Cascadia Code', 'JetBrains Mono'",
+	"editor.fontFamily": "'Cascadia Mono', 'JetBrains Mono'",
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
@@ -26,7 +26,7 @@
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
 	"terminal.integrated.fontSize": 15,
-	"terminal.integrated.fontFamily": "'Cascadia Code', 'JetBrains Mono'",
+	"terminal.integrated.fontFamily": "'Cascadia Mono', 'JetBrains Mono'",
 	"terminal.integrated.profiles.windows": {
 		"PowerShell": {
 			"source": "PowerShell",
