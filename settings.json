@@ -4,7 +4,7 @@
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 20,
-	"editor.fontLigatures": true,
+	"editor.fontLigatures": false,
 	"editor.formatOnSave": true,
 	"editor.minimap.enabled": false,
 	"editor.suggestSelection": "first",
@@ -51,7 +51,7 @@
 	"terminal.integrated.defaultProfile.windows": "PowerShell",
 	"terminal.integrated.enablePersistentSessions": false,
 	"update.enableWindowsBackgroundUpdates": true,
-	"update.mode": "none",
+	"update.mode": "manual",
 	"update.showReleaseNotes": false,
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"window.menuBarVisibility": "compact",
@@ -64,10 +64,10 @@
 		"editor.defaultFormatter": "vscode.html-language-features"
 	},
 	"redhat.telemetry.enabled": false,
-	"xml.symbols.maxItemsComputed": 50000,
-	"xml.server.vmargs": "-Xmx128M",
 	"codesnap.transparentBackground": true,
 	"codesnap.showWindowTitle": true,
 	"codesnap.containerPadding": "0.1em",
-	"window.zoomLevel": 0
+	"window.zoomLevel": 0,
+	"xml.symbols.maxItemsComputed": 50000,
+	"xml.server.vmargs": "-Xmx128M"
 }
