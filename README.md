@@ -68,3 +68,13 @@ Use <a href="https://github.com/microsoft/cascadia-code">Cascadia Code</a> or <a
 <h3>📜 Licence</h3>
 
 <a href="https://github.com/danhpaiva/visual-studio-code-config/blob/main/LICENSE">MIT</a>
+
+## 👨‍💻 Autor
+
+**Daniel Paiva**  
+Desenvolvedor .NET | Professor Universitário
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danhpaiva/)
+![Stars](https://img.shields.io/github/stars/danhpaiva/visual-studio-code-config?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/danhpaiva/visual-studio-code-config?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/danhpaiva/visual-studio-code-config?style=for-the-badge)
