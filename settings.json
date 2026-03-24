@@ -6,7 +6,7 @@
 	"workbench.statusBar.visible": true,
 	"workbench.startupEditor": "none",
 	"window.menuBarVisibility": "compact",
-	"window.zoomLevel": 0,
+	"window.zoomLevel": 3.5,
 	"breadcrumbs.enabled": true,
 	"explorer.compactFolders": false,
 	"explorer.confirmDelete": false,
@@ -73,6 +73,9 @@
 	"xml.server.vmargs": "-Xmx128M",
 	"telemetry.telemetryLevel": "off",
 	"redhat.telemetry.enabled": false,
+	"codesnap.transparentBackground": true,
+	"codesnap.showWindowTitle": true,
+	"codesnap.containerPadding": "0.1em",
 	"security.workspace.trust.untrustedFiles": "newWindow",
 	"update.mode": "manual",
 	"mssql.connectionGroups": [
