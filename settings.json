@@ -6,7 +6,7 @@
 	"workbench.statusBar.visible": true,
 	"workbench.startupEditor": "none",
 	"window.menuBarVisibility": "compact",
-	"window.zoomLevel": 3.5,
+	"window.zoomLevel": 0,
 	"breadcrumbs.enabled": true,
 	"explorer.compactFolders": false,
 	"explorer.confirmDelete": false,
@@ -17,7 +17,7 @@
 	"editor.fontSize": 13,
 	"editor.letterSpacing": 1.2,
 	"editor.lineHeight": 24,
-	"editor.fontLigatures": true,
+	"editor.fontLigatures": false,
 	"editor.tabSize": 4, // Padrão C# / .NET
 	"editor.renderLineHighlight": "gutter",
 	"editor.renderWhitespace": "selection",
@@ -31,7 +31,7 @@
 	// --- Sugestões e Inteligência ---
 	"editor.suggestSelection": "first",
 	"editor.suggest.showMethods": true,
-	"editor.acceptSuggestionOnEnter": "on",
+	"editor.acceptSuggestionOnEnter": "on", //smart
 	"editor.semanticHighlighting.enabled": true,
 	// --- Automação e Formatação (Clean Code) ---
 	"editor.formatOnSave": true,
@@ -39,6 +39,7 @@
 		"source.organizeImports": "explicit",
 		"source.fixAll": "explicit"
 	},
+	"extensions.autoUpdate": "onlyEnabledExtensions",
 	"files.autoSave": "onFocusChange",
 	// --- Git ---
 	"git.enableSmartCommit": true,
@@ -48,6 +49,7 @@
 	// --- Terminal Integrado ---
 	"terminal.integrated.defaultLocation": "view",
 	"terminal.integrated.cursorStyle": "underline",
+	"terminal.integrated.enablePersistentSessions": false,
 	"terminal.integrated.fontSize": 12,
 	"terminal.integrated.fontFamily": "'Cascadia Mono', 'JetBrains Mono', Consolas",
 	"terminal.integrated.copyOnSelection": true,
@@ -69,8 +71,6 @@
 	},
 	// --- Outros (Docker, XML, SQL, Telemetria) ---
 	"docker.extension.enableComposeLanguageServer": false,
-	"xml.symbols.maxItemsComputed": 50000,
-	"xml.server.vmargs": "-Xmx128M",
 	"telemetry.telemetryLevel": "off",
 	"redhat.telemetry.enabled": false,
 	"codesnap.transparentBackground": true,
@@ -78,10 +78,14 @@
 	"codesnap.containerPadding": "0.1em",
 	"security.workspace.trust.untrustedFiles": "newWindow",
 	"update.mode": "manual",
+	"update.enableWindowsBackgroundUpdates": true,
+	"update.showReleaseNotes": false,
 	"mssql.connectionGroups": [
 		{
 			"name": "ROOT",
 			"id": "ROOT"
 		}
-	]
+	],
+	"xml.symbols.maxItemsComputed": 50000,
+	"xml.server.vmargs": "-Xmx128M",
 }
