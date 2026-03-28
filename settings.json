@@ -1,6 +1,6 @@
 {
 	// --- Interface e Produtividade Geral ---
-	"workbench.colorTheme": "Default Dark Modern",
+	"workbench.colorTheme": "Dark Modern",
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.sideBar.location": "right",
 	"workbench.statusBar.visible": true,
