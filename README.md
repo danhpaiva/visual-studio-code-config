@@ -34,6 +34,7 @@ C#
 
 - ms-dotnettools.csharp
 - kreativ-software.csharpextensions
+- ms-dotnettools.csdevkit
 - patcx.vscode-nuget-gallery
 
 WebDev
