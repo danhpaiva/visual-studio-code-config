@@ -55,9 +55,9 @@ Flutter
 
 (Specific to some development environment)
 
+- waderyan.gitblame
 - ms-azuretools.vscode-docker
 - ms-vscode.vscode-node-azure-pack
-- ms-azuretools.vscode-docker
 - xabikos.JavaScriptSnippets
 - bmewburn.vscode-intelephense-client
 
